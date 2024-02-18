@@ -75,7 +75,6 @@ public class OverUnderGame {
             // Reset game
             win = false;
             count = 0;
-            guess = "";
 
             // Prompt user for another game
             System.out.println("\nPlay again? (y/n)");
